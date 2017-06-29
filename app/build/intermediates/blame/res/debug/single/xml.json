@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wangbo/Desktop/BaiCha/Money/app/build/intermediates/res/merged/debug/xml/redpacket_service_config.xml",
+        "source": "/Users/wangbo/Desktop/BaiCha/Money/app/src/main/res/xml/redpacket_service_config.xml"
+    },
+    {
+        "merged": "/Users/wangbo/Desktop/BaiCha/Money/app/build/intermediates/res/merged/debug/xml/redpacket_service_config2.xml",
+        "source": "/Users/wangbo/Desktop/BaiCha/Money/app/src/main/res/xml/redpacket_service_config2.xml"
+    }
+]
